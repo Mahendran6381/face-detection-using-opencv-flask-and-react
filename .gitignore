@@ -1,0 +1,9 @@
+node_modules
+Backend/Flask/static/uploads 
+Backend/Flask/main.py
+Backend/Flask/Face_detection.py
+bulid
+package-lock.json
+SCSS
+src/Styles
+Backend/Flask/venv
